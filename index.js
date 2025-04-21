@@ -1,3 +1,5 @@
+import { list } from './shoplist.js';
+
 const list = [
   { name: 'Mléko', amount: '1 litr', bought: true },
   { name: 'Rohlíky', amount: '10 ks', bought: false },
